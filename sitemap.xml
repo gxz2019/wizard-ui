@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/get-started/introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/list-group/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/notification-notification/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/virtual-select-box/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/popover/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/input-dropdown/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/grid/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/virtual-list/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/clearfix/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/menu-item/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/nav/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/nav-item/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/nav-dropdown/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/alert/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/breadcrumb/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/date-picker/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/navbar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/dropdown/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/panelgroup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/panel/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/well/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/range-picker/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/icon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/navigation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/pagination/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/dropdown-button/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/sub-menu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/time-picker/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/modal/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/switch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/tree/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/steps/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/tab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/button/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/loader/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/tooltip/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/usage-bar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/layout/color/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/layout/grid/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/layout/font/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/components/badge/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://wizard-ui.netlify.com/wizard-ui/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
