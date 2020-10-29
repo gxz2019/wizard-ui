@@ -189,7 +189,7 @@ const UsageBar: React.FC<UsageBarProps> = props => {
           <div className="UsageBar__footer--right">{right}</div>
         </div>
       )}
-      {hasSeries && withLenged && (
+      { hasSeries && withLenged && (
         <Row className="UsageBar__legend">
           {lodash.map(finalSeries, ({ name, legend, bsStyle, value }, index) => (
             <Col xs={12} className={`Legend ${bsStyle} ${value ? '' : 'noVal'}`} key={index}>

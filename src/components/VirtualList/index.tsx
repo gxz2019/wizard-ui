@@ -123,7 +123,10 @@ export default class VirtualList<T> extends React.Component<VirtualListProps<T>,
   componentDidMount() {
     const { data } = this.props;
     this.handleResize(data);
-    window.addEventListener('resize', this.resizeHandler);
+    window.addEventListener('resize', () => {
+      console.log(11111111111111);
+      this.resizeHandler()
+    });
   }
   componentDidUpdate(prevProps: VirtualListProps<T>) {
     const { isEstimate, debug, data, isReloading } = this.props;

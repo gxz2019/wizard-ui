@@ -46,6 +46,7 @@ const TimePicker: React.FC<TimePickerProps> = props => {
       hideDisabledOptions: true,
     };
     currentValue = value && value.minute(59);
+    currentValue = value && value.minute(59);
   }
   return (
     <RCTimePicker
